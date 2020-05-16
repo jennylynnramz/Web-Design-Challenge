@@ -59,17 +59,17 @@ p {
 .viz-img {
     width: 150px;
     height: 150px;
-
-
 }
 
 .title-text {
     text-align: center;
     color:  #363697;
-    size: 20pt;
+    size: 30pt;
+    
 
 }
 
+.data-background {
 
-
+    background-color: white;
 }
