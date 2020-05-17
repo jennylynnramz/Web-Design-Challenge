@@ -46,8 +46,14 @@ p {
 }
 
 .data-box {
+    padding-right: 5%;
     padding-left: 5%;
     background-color: white;
+}
+
+.cola-pad {
+    padding-left: 3%;
+    padding-right: 3%;
 }
 
 .left-image {
@@ -60,8 +66,9 @@ p {
 }
 
 .viz-box {
-    padding-right: 5%;
-    padding-left: 5%;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-bottom: 10%;
     background-color: white;
 }
 
