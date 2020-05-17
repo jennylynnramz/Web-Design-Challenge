@@ -2,8 +2,28 @@
     background-color: white;
     padding-left: 10%;
     padding-right: 10%;
-    
+   
 }
+
+.navbar {
+    background-color: white;
+}
+
+@media (max-width: 600px) {
+
+    .navbar-light {
+        background:#363697;
+    }
+
+    .btn-primary-outline {
+        background-color: transparent;
+        border-color: #ccc;
+      }
+
+}
+
+
+
 body {
     background-color: #eaeaf2;
 }
