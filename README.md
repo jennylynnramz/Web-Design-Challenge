@@ -1,6 +1,6 @@
 # Correlation Between Weather Attributes and Latitude
 
-## Demo - [Click here](https://jennylynnramz.github.io/Web-Design-Challenge/)
+## Demo - [Click here](http://jennylynnramz.com/Web-Design-Challenge/)
 
 ## Desciption
 * This project explores correlation between weather attributes(like temperature, humidity, windiness, cloudiness) and geographic latitude.
